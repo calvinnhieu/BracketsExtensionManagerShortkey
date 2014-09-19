@@ -1,0 +1,9 @@
+{
+    "name": "calvinnhieu.extensionmanagershortkey",
+    "title": "Extension Manager Shortkey",
+    "description":"Enables quick access to the Brackets Extension Manager using the command Alt+Shift+O",
+    "homepage": "https://github.com/CalvinNhieu/BracketsExtensionManagerShortkey",
+    "version": "1.0.0",
+    "author": "Calvin Nhieu <calvin.nhieu@gmail.com> (http://calvinn.com/)",
+
+}
